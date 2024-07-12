@@ -13,7 +13,7 @@ const sendEmailMi = async (
   const params = {
     Source: "no-reply@marketinsidedata.com", // senders Email
     Destination: {
-      ToAddresses: ["aman@marketinsidedata.com"], // Fixed recipient email
+      ToAddresses: ["pulkitnov2@gmail.com"], // Fixed recipient email
     },
     Message: {
       Subject: {
@@ -254,7 +254,7 @@ const sendEmailEg = async (
   const params = {
     Source: "no-reply@marketinsidedata.com", // senders Email
     Destination: {
-      ToAddresses: [""], // Fixed recipient email
+      ToAddresses: ["pulkitnov2@gmail.com"], // Fixed recipient email
     },
     Message: {
       Subject: {
